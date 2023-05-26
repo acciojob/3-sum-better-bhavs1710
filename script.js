@@ -24,6 +24,3 @@ let ans = threeSum(arr, target);
 console.log(ans);
 module.exports = threeSum;
   
-}
-
-module.exports = threeSum;
